@@ -1,2 +1,13 @@
-//처음 fork한 repository를 다운받은 다음에, npm install 부터 해줬다.
+#처음 fork한 repository를 다운받은 다음에, npm install 부터 해줬다.
 npm install
+npm run dev
+
+#prisma setting
+npm install prisma --save-dev
+npm install @prisma/client
+npx prisma init
+npx prisma db push
+npx prisma studio
+
+//tailwindcss 라이브러리 설치
+npm install tailwindcss
