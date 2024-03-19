@@ -1,0 +1,2 @@
+//처음 fork한 repository를 다운받은 다음에, npm install 부터 해줬다.
+npm install
